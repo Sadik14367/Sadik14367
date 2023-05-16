@@ -97,4 +97,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadik14367&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadik14367&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadik14367&show_icons=true&bg_color=00000000)-->
+## 🙋‍♂️ Support
 
+💙 If you like this project, give it a ⭐ and share it with friends!
+
+<p align="left">
+  <a href="https://codedokan.com"><img alt="Youtube" title="website" src="https://img.shields.io/badge/-website-red?style=for-the-badge&logo=website&logoColor=white"/></a>
+  <a href="https://github.com/#"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+[☕ Buy me a coffee](https://sadikurrahman.com)
+
+---
+
+Made with ❤️ and PHP
+
+<a href="https://codedokan.com/"><img alt="Powered by CodeDokan.Com" title="Powered by CodeDokan.Com" src="https://img.shields.io/badge/-Powered%20by%20CodeDokan.Com-6567a5?style=for-the-badge&logo=CodeDokan.Com&logoColor=white"/></a>
