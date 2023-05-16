@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Sadik14367&style=flat-square&color=blue" alt=""/>
+  
   <br />
+  
   <!-- This Is MY Code Languages Start -->
   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -39,16 +41,20 @@ Here are some ideas to get you started:
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
   <!-- This Is MY Code Languages End -->
+  
   <hr />
+  
   <!-- MY  Portfolio Details Start -->
 <div align="center">
   <a title="Portfolio, CodeDokan.Com" href="https://sadikurrahman.Com"><img alt="My portfolio, CodeDokan.Com" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/Sadik14367"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
   </div>
   <!-- MY  Portfolio Details Start -->
+  
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -63,6 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sadikur R. Mejan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadikur-r-mejan/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
